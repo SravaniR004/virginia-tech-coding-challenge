@@ -17,9 +17,11 @@ How to Compile and Run:
 2. Compile the program: 
    javac Alphabetizer.java
 
-3. Run the program with input strings as arguments:
-   java Alphabetizer "VirginiaTech" "3 Blind Mice"
-
+3. Run the program with input strings as arguments.
+   
+Example:
+Input: 
+"VirginiaTech" "3 Blind Mice"
 
 Expected output:
 aceghiiinrTV
